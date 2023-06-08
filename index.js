@@ -1,5 +1,5 @@
 function ProvocandoErro(){
     return <div>
-        simulando erro
+        simulando erro, agora simulando correção
     </div>
 }
